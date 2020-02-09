@@ -28,7 +28,7 @@
 - cover the chicken pieces in mayo and then in panko
 - line a baking sheet with aluminium foil, place the 
 	chicken pieces on it and cover with foil
-- place in the over for 30 minutes
+- place in the oven for 30 minutes
 - remove the top foil and cook for 10 more minutes
 
 ## beans
@@ -46,3 +46,6 @@
 # Notes
 
 - Can be served with white rice
+- this is really good with chicken drumsticks, must
+	try with chicken breasts
+

@@ -23,9 +23,9 @@
 ## chicken
 
 - preheat the oven to 180°C (350°f)
-- season the chicken with salt, pepper, basil and rosmary
+- season the chicken with salt, pepper
 - let it rest for at least 30 minutes
-- cover the chicken pieces in mayo and then in panko
+- cover the chicken pieces in mayo and then in a mix of panko, basil and rosmary
 - line a baking sheet with aluminium foil, place the 
 	chicken pieces on it and cover with foil
 - place in the oven for 30 minutes

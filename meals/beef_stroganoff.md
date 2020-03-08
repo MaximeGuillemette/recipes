@@ -13,7 +13,7 @@
 
 ## Sauce
 - 1 cup beef broth
-- sour cream
+- 1/4 cup sour cream
 - 1/2 tsp dijon mustard
 - 3/4 cup whiping cream
 - 1 tbs worcestershire sauce

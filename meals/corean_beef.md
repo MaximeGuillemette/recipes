@@ -3,10 +3,10 @@
 ## Main ingredients
 
 - lean ground beef 1lbs
-- 3 garlic cloves
+- 3 garlic cloves, crushed/grated
 - carrots, diced
 - 1 red onion, diced
-- 1 green bell pepper
+- 1 green bell pepper, diced
 - broccoli, cut in pieces
 - celery, chopped
 - fresh ginger, grated
@@ -18,6 +18,7 @@
 - soy sauce, 1/4 cup
 - honey, 2 tbs
 - hoisin sauce, 2 tbs
+- rice vinegar, 2 tbs
 - hot sauce, to taste
 - dried chili flakes, to taste
 - salt & pepper, to taste

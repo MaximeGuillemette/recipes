@@ -13,7 +13,7 @@
 - fresh parsley and/or fresh cilantro for garnish
 - salt & pepper
 
-# Preperation
+# Preparation
 
 ## 1 - Beans
 

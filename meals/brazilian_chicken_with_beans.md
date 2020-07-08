@@ -18,7 +18,7 @@
 - 1 tbs neutral oil
 
 
-# Preperation
+# Preparation
 
 ## chicken
 

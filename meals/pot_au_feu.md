@@ -24,7 +24,7 @@
 - 2 leeks
 - nice bread
 
-# Preperation
+# Preparation
 
 - In a large stock pot start by adding all of the bones and meats
 	at the bottom of the pan

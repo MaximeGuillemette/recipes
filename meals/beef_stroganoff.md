@@ -26,7 +26,7 @@
 - white rice
 - buckwheat kasha
 
-# Preperation
+# Preparation
 
 - Thinly slice the beef and thickly slice the mushrooms
 - Chop the onion and mince the garlic

@@ -11,7 +11,7 @@
 - 1/2 tsp salt
 
 
-# Preperation
+# Preparation
 
 - Put the flour and salt in a large mixing bowl, and whisk to break the lumps.
 	(or sift the flour first)

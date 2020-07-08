@@ -17,7 +17,7 @@
 - crumbly cheese (goat, feta, other) (opt)
 - bread
 
-# Preperation
+# Preparation
 
 - in a large skillet on med-high heat, heat 2 tbs olive oil
 - add the onion (and mushroom if applicable) and salt

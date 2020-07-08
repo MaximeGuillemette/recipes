@@ -1,19 +1,19 @@
-Ingredients:
+# Ingredients:
 
-1 big onion, diced
-3 - 4 carrots, diced
-3 - 4 celeri, diced
-~1 kg ground meat
-1 can tomato sauce
-2 cloves garlic, finely chopped
-olive oil
-1 tsp cumin
-1 tsp paprika
-1 tsp dried basil
-1 tsp dried oregano
-400 ml ricotta cheese
+- 1 big onion, diced
+- 3 - 4 carrots, diced
+- 3 - 4 celeri, diced
+- ~1 kg ground meat
+- 1 can tomato sauce
+- 2 cloves garlic, finely chopped
+- olive oil
+- 1 tsp cumin
+- 1 tsp paprika
+- 1 tsp dried basil
+- 1 tsp dried oregano
+- 400 ml ricotta cheese
 
-Preperation:
+# Preparation:
 
 - heat a bit pot with some olive oil
 - cook the onions and the garlic

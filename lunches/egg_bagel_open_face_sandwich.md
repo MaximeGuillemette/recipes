@@ -7,7 +7,7 @@
 - 1 tbs butter
 - mayo
 
-# Preperation
+# Preparation
 
 - pre-heat a non-stick pan on medium
 - in a small mixing bowl, combine the eggs and the veggetables 

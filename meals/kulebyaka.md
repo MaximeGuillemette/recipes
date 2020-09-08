@@ -1,6 +1,6 @@
 # Ingredients
 
-- 1 large sheet of puff pastry (see notes)
+- 1 large sheet / 400g of puff pastry (see notes)
 - 2 blins (see notes)
 - 1 hard boiled eggs
 - 1 egg for the puff pastry

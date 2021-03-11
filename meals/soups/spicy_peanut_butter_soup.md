@@ -1,15 +1,15 @@
 Ingredients:
 
-1 vegetable bouillon cube
-1 onion, diced
-olive oil
-2 big carrots
-1 broccoli
-1 can of diced tomatoes
-1 can of chickpeas
-1 tsp chilli sauce
-1 tsp or more brown sugar
-1/2 cup peanut butter (to taste)
+- 1 vegetable bouillon cube
+- 1 onion, diced
+- olive oil
+- 2 big carrots
+- 1 broccoli
+- 1 can of diced tomatoes
+- 1 can of chickpeas
+- 1 tsp chilli sauce
+- 1 tsp or more brown sugar
+- 1/2 cup peanut butter (to taste)
 
 
 Preparation:

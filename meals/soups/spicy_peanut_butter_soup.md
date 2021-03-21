@@ -1,4 +1,4 @@
-Ingredients:
+# Ingredients:
 
 - 1 vegetable bouillon cube
 - 1 onion, diced
@@ -11,8 +11,7 @@ Ingredients:
 - 1 tsp or more brown sugar
 - 1/2 cup peanut butter (to taste)
 
-
-Preparation:
+# Preparation:
 
 - Chop the carrot and broccoli finely
 - disolve the bouillon cube in a pot with some water
@@ -22,6 +21,4 @@ Preparation:
 - add the diced tomatoes, the chickpeas, the chilli sauce, the brown sugar, the peanut butter and pepper
 - add the broccoli
 - let simmer until reduced to a thick soup consistency, or until the broccoli is cooked
-
-
 
